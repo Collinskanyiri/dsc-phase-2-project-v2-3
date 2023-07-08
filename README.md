@@ -118,7 +118,7 @@ numeric_variables = df.select_dtypes("number")
 categorical_features = df.select_dtypes("object")
 
 #### 5.2 Checking Correlations
-![Alt text](images\Variable Correlations heatmap.png)
+![Alt text](images/Variable%20Correlations%20heatmap.png)
 
 A correlation of 0.7 to 1.0 (-0.7 to -1) suggests a strong positive (negative) linear relationship while 0.5 to 0.6 (-0.5 to -0.6) is considered moderate. many of the variables related to the size of homes (e.g. sqft_living, sqft_living15, etc) are strongly correlated with each other.
 
@@ -130,7 +130,7 @@ The target variable is price.
 sqft_living has the strongest positive correlation with price followed by sqft_living15, sqft_above and bathrooms in that order. NOTE. we do not use lat as its not needed in the analyisis
 
 #### 5.3.1 Plotting the sqft_living vs. Price
-![Alt text](images\fig3.png)
+![Alt text](images/fig3.png)
 
 ### 5.4 Simple Linear Regression Model
 
@@ -143,10 +143,10 @@ Declaring y and X_base variables, where y is a Series containing price data and 
 130267.37490037664
 
 #### Visualize model fit
-![Alt text](images/model fit.png)
+![Alt text](images/model%20fit.png)
 
 #### Visualize fitted values
-![Alt text](images/fitted values.png)
+![Alt text](images/fitted%20values.png)
 
 #### Observations
 Our model is statistically significant overall with a Prob (F-statistic) value of 0.00 which is less than the standard alpha 0.05. The model also explains about 29% of the variance in price. A higher variance is always preferred.
