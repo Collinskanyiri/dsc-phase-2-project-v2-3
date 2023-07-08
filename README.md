@@ -36,7 +36,7 @@ floors - Total floors (levels) in house
 
 waterfront - House which has a view to a waterfront
 
-view - Has been viewed
+view - Does the property have a view?
 
 condition - How good the condition is ( Overall )
 
