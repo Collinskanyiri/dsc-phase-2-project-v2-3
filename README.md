@@ -1,6 +1,7 @@
 # Multiple Linear Regression: Predicting King County, WA, Housing Prices
-
-The role assumed here is of a Data Scientist working for Stark Realtors. The Agency is in the business of helping homeowners buy and/or sell houses in King County WA in the US. The Agency has provided a dataset of house sales in King County. The task here is to model the real estate housing prices and use the model to accurately predict the housing prices based on a number of features provided within the dataset. The expectation is that, once completed, the model can be used as a tool in selecting properties for investment in King County.
+Slides: https://docs.google.com/presentation/d/1Bi9iAwgM4gTRIIaxPXftYOwrpWMULtL3VmECbmorx98/edit?usp=sharing
+## Introduction
+The role assumed here is of a Data Scientist working for Stark Realtors. The Agency is in the business of helping homeowners buy and/or sell houses in King County WA in the US. The Agency has provided a dataset of house sales in King County. The task here is to model the real estate housing prices and use the model to accurately predict the housing prices based on a number of features provided within the dataset. The expectation is that once completed, the model can be used as a tool in selecting properties for investment in King County.
 
 ## Analysis Questions
 
